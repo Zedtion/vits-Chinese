@@ -16,3 +16,4 @@ inflect==6.0.0
 eng_to_ipa==0.0.2
 indic_transliteration==2.3.37
 opencc==1.1.1
+tqdm
